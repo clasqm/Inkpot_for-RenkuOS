@@ -1,6 +1,6 @@
 # Inkpot
 
-**A paint program for Linux in which everything stays an object.**
+**A paint program in which everything stays an object.**
 
 [![Download](https://img.shields.io/github/v/release/Neklor/Inkpot?label=Download%20.deb&color=27AE60)](../../releases/latest)
 [![License: GPL-3.0](https://img.shields.io/badge/License-GPL--3.0-2C3E50)](LICENSE)
